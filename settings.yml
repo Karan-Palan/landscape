@@ -141,7 +141,7 @@ footer:
   logo: "https://json-schema.org/img/logos/logo-white.svg"
   text: "<span>Copyright © <span class='footer-year'></span> JSON Schema. All rights reserved.</span>"
   scripts:
-    - "https://karan-palan.github.io/landscape/dynamicYearUpdate.js"
+    - "https://karan-palan.github.io/landscape/js/dynamicYearUpdate.js"
 # Grid items size (optional)
 #
 # Defines the preferred size of the landscape items in the grid mode. When the
